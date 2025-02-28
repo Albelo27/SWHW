@@ -58,7 +58,7 @@
 }
 /*for hiding and showing the order form and order summary*/
 #order_form {
-    visibility: visible;
+    display: contents;
 }
 
 #thankyou_text {
